@@ -1,0 +1,7 @@
+1) exception handling*******
+2) modules and packages
+3) tkinter moodule
+4) trees
+5) graphs
+6) linked list
+7) arrays as numpy
